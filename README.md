@@ -551,13 +551,10 @@
 
     ```javascript
     // bad
-    const name = "Capt. Janeway";
-
-    // bad - template literals should contain interpolation or newlines
-    const name = `Capt. Janeway`;
+    const name = "Bennet Mathew";
 
     // good
-    const name = 'Capt. Janeway';
+    const name = 'Bennet Mathew';
     ```
 
   <a name="strings--line-length"></a><a name="6.2"></a>
